@@ -119,7 +119,7 @@ VIDEO_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 Output:
 
 ✅ Toplam 2563 yorum çekildi.
-💾 Yorumlar 'calikusu.xlsx' dosyasına kaydedildi.
+💾 Yorumlar 'video_yorumlari.xlsx' dosyasına kaydedildi.
 
 
 Excel Preview:
