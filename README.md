@@ -111,30 +111,5 @@ Jane Smith	Thanks for the info!	3	2024-01-13T10:15:00Z	2024-01-13T10:15:00Z
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute this script with proper attribution.
-## API Kullanımı
-
-#### Tüm öğeleri getir
-
-```http
-  GET /api/items
-```
-
-| Parametre | Tip     | Açıklama                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Gerekli**. API anahtarınız. |
-
-#### Öğeyi getir
-
-```http
-  GET /api/items/${id}
-```
-
-| Parametre | Tip     | Açıklama                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Gerekli**. Çağrılacak öğenin anahtar değeri |
-
-#### add(num1, num2)
-
-İki sayı alır ve toplamı döndürür.
 
   
